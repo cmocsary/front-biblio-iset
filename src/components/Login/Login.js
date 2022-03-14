@@ -2,8 +2,6 @@ import {Form, Button} from "react-bootstrap"
 
 const Login = () => {
     
-    const{} = useCpmt
-    
     return(
         <>
         <Form >
